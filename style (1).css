@@ -1,0 +1,30 @@
+#header {
+	color: #454545;
+	font-family: 'helvetica';
+	font-size: 35pt
+}
+
+.background {
+	background-color: #f3f3f3;
+}
+
+.text {
+	color: black;
+	font-family: 'arial';
+	font-weight: 'normal';
+	font-size: 13;
+}
+
+.header {
+	color: black;
+	font-family: 'sans-serif';
+	font-weight: 'bold';
+	font-size: 20;
+}
+
+h5 {
+	color: #454545;
+	font-family: 'sans-serif';
+	font-weight: 'bold';
+	font-size: 20;
+}
